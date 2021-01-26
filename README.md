@@ -1,6 +1,7 @@
 # todolist
 
-> A Vue.js project
+> A Vue.js project (making TodoList)
+> 하이브리드 웹 앱이며, 스마트폰 화면에 최적화되어 있습니다.
 
 ## Build Setup
 
